@@ -19,8 +19,8 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
 const socialCount = SOCIALS.filter(social => social.active).length;
 
-const title = "KaLUG - 高雄Linux User Group";
-const description = "由一群熱愛 Linux / open source 的高雄人所組成的社群";
+const title = "KaLUG - Kaohsiung Linux User Group";
+const description = "KaLUG - Kaohsiung Linux User Group: 由一群熱愛 Linux / open source 的高雄人所組成的社群";
 ---
 
 <Layout>
@@ -28,9 +28,6 @@ const description = "由一群熱愛 Linux / open source 的高雄人所組成�
   <main id="main-content">
     <section id="hero">
       <!--<h1>{title}</h1>-->
-      <table>
-        <tr>
-          <td>
             <a
               target="_blank"
               href="/rss.xml"
@@ -49,12 +46,18 @@ const description = "由一群熱愛 Linux / open source 的高雄人所組成�
             </a>
 
             <p>
-              {description}
+	      {description}
+
+	      <h1> meetups </h1>
               <ul style="list-style-type:square">
                 <li>
-                  實體聚會- 每月選一周末聚會技術分享 (講者有意願時會開直播)
+                實體聚會- 每月第三個周末聚會技術分享, 地點: <a href="https://secondspace.dev">second space</a> 捷運紅線R9  中央公園站3號出口<br />
+                In-person meetups: Monthly Technical Sharing on the Third Weekend, Location: <a href="https://secondspace.dev">second space</a> at MRT R9 Exit 3
                 </li>
-                <li>線上聚會- Night Talk - 週四晚, 但可能依講者時間調整</li>
+                <li>
+                線上聚會- Night Talk - 週四晚, 但可能依講者時間調整<br />
+                Online meetups: Night Talk - Thursday evening, but the time may be adjusted based on the speaker's availability.
+                </li>
                 <!-- <li>年度聚會 MOPCON unconf</li> -->
               </ul>
             </p>
@@ -78,20 +81,6 @@ const description = "由一群熱愛 Linux / open source 的高雄人所組成�
                 </div>
               )
             }
-          </td>
-          <td>
-            <iframe
-              src="https://discord.com/widget?id=1279413624531718154&theme=dark"
-              width="350"
-              height="300"
-              allowtransparency="true"
-              loading="lazy"
-              frameborder="0"
-              sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
-            ></iframe>
-          </td>
-        </tr>
-      </table>
     </section>
 
     <section>
