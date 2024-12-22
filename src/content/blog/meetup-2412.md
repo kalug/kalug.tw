@@ -4,7 +4,10 @@ pubDatetime: 2024-12-28T14:30:00
 tags:
   - meetup
   
-description: "Netman 一起聊 聊 tech & 國際友善 / Let's Hack with global friends"
+description: "
+- Myron - 聊 2025 AI發展
+- Netman - 一起聊 聊 tech & 國際友善 / Let's Hack with global friends
+- 日落 - RustDesk"
 googlemap: omXnciLVyBBzHcLXA
 meetupLocation: Second space 捷運中央公園站 三號出口 R9 Exit 3 
 
@@ -17,8 +20,8 @@ meetupLocation: Second space 捷運中央公園站 三號出口 R9 Exit 3
 
 具體更新詳見 https://lu.ma/kalug.tw
 
+## Myron - 聊 2025 AI發展
 
+## Netman 一起聊 聊 tech & 國際友善 / Let's Hack with global friends
 
-
-## 12/28 和 Netman 一起聊 聊 tech & 國際友善 / Let's Hack with global friends
-- 實體聚會
+## 日落 - RustDesk
