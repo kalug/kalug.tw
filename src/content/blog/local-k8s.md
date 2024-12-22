@@ -11,6 +11,7 @@ description: "加上 AI 人工智慧與 ML 機器學習的需求， Kubernetes (
 在這場演講中，我們會介紹一些常見的 Kubernetes 安裝需要的關鍵元件，分享地端建置甚至到 GPU 主機建置遇到的問題，給大家做一個指引，少走一些彎路"
 
 youtube: g1yuBjMAGog
+author: Johnny Sung
 
 ---
 
