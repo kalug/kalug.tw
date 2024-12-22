@@ -10,6 +10,9 @@ description: "加上 AI 人工智慧與 ML 機器學習的需求， Kubernetes (
 
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/B_74ukSOQniZ2-hcB0Cmzg/badge)](https://hackmd.io/B_74ukSOQniZ2-hcB0Cmzg)
+
+
 
 
 ### slide: [Kubernetes 地端自建 v.s. GKE，哪個更適合你？ @Devfest Taipei 2024 | PPT](https://www.slideshare.net/slideshow/kubernetes-v-s-gke-devfest-taipei-2024/273727315)
