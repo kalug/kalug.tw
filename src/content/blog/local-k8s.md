@@ -3,6 +3,8 @@ title: "地端自建 Kubernetes(K8s)小宇宙"
 pubDatetime: 2024-12-17
 tags:
   - meetup
+  - kubernetes
+  - gpu
   
 description: "加上 AI 人工智慧與 ML 機器學習的需求， Kubernetes (K8s) 的基礎建設更為重要。
 什麼？你想要地端全自建？這是什麼巫術？
