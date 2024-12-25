@@ -8,6 +8,9 @@ tags:
 description: "let's run kind in podman"
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/o6XKOGGyREyfbxsSDNveJg/badge)](https://hackmd.io/o6XKOGGyREyfbxsSDNveJg)
+
+
 
 本次活動我們會在 second space 與 線上同時舉行
 
