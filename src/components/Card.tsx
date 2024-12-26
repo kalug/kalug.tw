@@ -14,6 +14,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
   const ylink = "https://www.youtube.com/watch?v=" + frontmatter.youtube;
   const mlink = "https://meet.google.com/" + frontmatter.googlemeet;
   const maplink = "https://maps.app.goo.gl/" + frontmatter.googlemap;
+  const lumalink = "https://lu.ma/" + frontmatter.luma;
   //Astro.props;
 
   const headerProps = {
@@ -40,29 +41,12 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
           </h3>
         )}
       </a>
-
-      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} />
-
-      {frontmatter.youtube && (
-        <p>
-          {" "}
-          <a href={ylink} target="_blank">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              className="icon-tabler"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path
-                fill="#F61C0D"
-                d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"
-              ></path>
-              <polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>
-            </svg>
-            - YouTube -{" "}
-          </a>
-        </p>
+      {pubDatetime && (
+      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} luma={frontmatter.luma} youtube={frontmatter.youtube}/>
       )}
+
+
+
       {frontmatter.googlemeet && (
         <p>
           {" "}

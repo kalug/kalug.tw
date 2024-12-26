@@ -29,6 +29,7 @@ const {
   modDatetime,
   tags,
   youtube,
+  luma,
   googlemeet,
   editPost,
 } = post.data;
@@ -86,14 +87,17 @@ const nextPost =
   </div>
   <main id="main-content">
     <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
+
     <Datetime
       pubDatetime={pubDatetime}
       modDatetime={modDatetime}
+      luma={luma}
       size="lg"
       className="my-2"
       editPost={editPost}
       postId={post.id}
     />
+
       {
       googlemeet && (
 	  <p> <a href={mlink}>

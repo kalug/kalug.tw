@@ -8,7 +8,7 @@ const blog = defineCollection({
   schema: ({ image }) =>
     z.object({
       author: z.string().default(SITE.author),
-      pubDatetime: z.date(),
+      pubDatetime: z.date().optional().nullable(),
       modDatetime: z.date().optional().nullable(),
       title: z.string(),
       featured: z.boolean().optional(),
@@ -22,6 +22,7 @@ const blog = defineCollection({
         .optional(),
       youtube: z.string().optional(),
       googlemeet: z.string().optional(),
+      luma: z.string().optional(),
       hackmd: z.string().optional(),
       googlemap: z.string().optional(),
       meetupLocation: z.string().optional(),
