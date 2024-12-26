@@ -11,10 +11,10 @@ export interface Props {
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
   const { title, pubDatetime, modDatetime, description, author } = frontmatter;
-  const ylink = "https://www.youtube.com/watch?v=" + frontmatter.youtube;
+
   const mlink = "https://meet.google.com/" + frontmatter.googlemeet;
   const maplink = "https://maps.app.goo.gl/" + frontmatter.googlemap;
-  const lumalink = "https://lu.ma/" + frontmatter.luma;
+
   //Astro.props;
 
   const headerProps = {
@@ -41,11 +41,14 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
           </h3>
         )}
       </a>
-      {pubDatetime && (
-      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} luma={frontmatter.luma} youtube={frontmatter.youtube}/>
+      {(frontmatter.luma || frontmatter.youtube) && (
+        <Datetime
+          pubDatetime={pubDatetime}
+          modDatetime={modDatetime}
+          luma={frontmatter.luma}
+          youtube={frontmatter.youtube}
+        />
       )}
-
-
 
       {frontmatter.googlemeet && (
         <p>

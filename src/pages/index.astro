@@ -20,7 +20,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 const socialCount = SOCIALS.filter(social => social.active).length;
 
 const title = "KaLUG - Kaohsiung Linux User Group";
-const description = "KaLUG - Kaohsiung Linux User Group: 由一群熱愛 Linux / open source 的高雄人所組成的社群";
+const description = "由一群熱愛 Linux / open source 的高雄人所組成的社群";
 ---
 
 <Layout>
@@ -28,40 +28,44 @@ const description = "KaLUG - Kaohsiung Linux User Group: 由一群熱愛 Linux /
   <main id="main-content">
     <section id="hero">
       <!--<h1>{title}</h1>-->
-            <a
-              target="_blank"
-              href="/rss.xml"
-              class="rss-link"
-              aria-label="rss feed"
-              title="RSS Feed"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" class="rss-icon"
-                ><path
-                  d="M19 20.001C19 11.729 12.271 5 4 5v2c7.168 0 13 5.832 13 13.001h2z"
-                ></path><path
-                  d="M12 20.001h2C14 14.486 9.514 10 4 10v2c4.411 0 8 3.589 8 8.001z"
-                ></path><circle cx="6" cy="18" r="2"></circle>
-              </svg>
-              <span class="sr-only">RSS Feed</span>
-            </a>
+      <a
+        target="_blank"
+        href="/rss.xml"
+        class="rss-link"
+        aria-label="rss feed"
+        title="RSS Feed"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="rss-icon"
+          ><path
+            d="M19 20.001C19 11.729 12.271 5 4 5v2c7.168 0 13 5.832 13 13.001h2z"
+          ></path><path
+            d="M12 20.001h2C14 14.486 9.514 10 4 10v2c4.411 0 8 3.589 8 8.001z"
+          ></path><circle cx="6" cy="18" r="2"></circle>
+        </svg>
+        <span class="sr-only">RSS Feed</span>
+      </a>
 
-            <p>
-	      {description}
+      <p>
+        {title}: {description}
 
-	      <h1> Meetups </h1>
-              <ul style="list-style-type:square">
-                <li>
-                實體聚會- 每月第三個周末聚會技術分享, 地點: <a href="https://secondspace.dev">second space</a> 捷運紅線R9  中央公園站3號出口<br />
-                In-person meetups: Monthly Technical Sharing on the Third Weekend, Location: <a href="https://secondspace.dev">second space</a> at MRT R9 Exit 3
-                </li>
-                <li>
-                線上聚會- Night Talk - 週四晚, 但可能依講者時間調整<br />
-                Online meetups: Night Talk - Thursday evening, but the time may be adjusted based on the speaker's availability.
-                </li>
-                <!-- <li>年度聚會 MOPCON unconf</li> -->
-              </ul>
-            </p>
-            <!--
+        <h1>Meetups</h1>
+        <ul style="list-style-type:square">
+          <li>
+            實體聚會- 每月第三個周末聚會技術分享, 地點: <a
+              href="https://secondspace.dev">second space</a
+            > 捷運紅線R9 中央公園站3號出口<br />
+            In-person meetups: Monthly Technical Sharing on the Third Weekend, Location:
+            <a href="https://secondspace.dev">second space</a> at MRT R9 Exit 3
+          </li>
+          <li>
+            線上聚會- Night Talk - 週四晚, 但可能依講者時間調整<br />
+            Online meetups: Night Talk - Thursday evening, but the time may be adjusted
+            based on the speaker's availability.
+          </li>
+          <!-- <li>年度聚會 MOPCON unconf</li> -->
+        </ul>
+      </p>
+      <!--
       <p>
         Read the blog posts or check
         <LinkButton
@@ -72,28 +76,27 @@ const description = "KaLUG - Kaohsiung Linux User Group: 由一群熱愛 Linux /
         </LinkButton> for more info.
       </p>
       -->
-            {
-              // only display if at least one social link is enabled
-              socialCount > 0 && (
-                <div class="social-wrapper">
-                  <div class="social-links">Social Links:</div>
-                  <Socials />
-                </div>
-              )
-            }
+      {
+        // only display if at least one social link is enabled
+        socialCount > 0 && (
+          <div class="social-wrapper">
+            <div class="social-links">Social Links:</div>
+            <Socials />
+          </div>
+        )
+      }
     </section>
 
     <section>
-<iframe
-  src="https://lu.ma/embed/calendar/cal-nKPZ3ssGU3NCTx9/events?utm_source=kalug.tw"
-  width="100%"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+      <iframe
+        src="https://lu.ma/embed/calendar/cal-nKPZ3ssGU3NCTx9/events?utm_source=kalug.tw"
+        width="100%"
+        height="450"
+        frameborder="0"
+        style="border: 1px solid #bfcbda88; border-radius: 4px;"
+        allowfullscreen=""
+        aria-hidden="false"
+        tabindex="0"></iframe>
     </section>
 
     <Hr />
@@ -151,7 +154,6 @@ const description = "KaLUG - Kaohsiung Linux User Group: 由一群熱愛 Linux /
         </svg>
       </LinkButton>
     </div>
-
   </main>
 
   <Footer />
