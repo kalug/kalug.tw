@@ -8,6 +8,8 @@ tags:
 description: "let's run kind in podman"
 youtube: b-b9Nahro9w
 luma: dt8l2tnm
+googlemap: omXnciLVyBBzHcLXA
+meetupLocation: Second space 捷運中央公園站 三號出口 R9 Exit 3 
 
 ---
 
