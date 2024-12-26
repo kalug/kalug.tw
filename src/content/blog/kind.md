@@ -1,6 +1,6 @@
 ---
 title: "kind: kubernetes in docker"
-pubDatetime: 2025-01-16T19:30:00
+pubDatetime: 2025-01-16T19:30:00+08
 tags:
   - meetup
   - kubernetes
@@ -29,6 +29,9 @@ Shawn 打算介紹如何使用 用 podman 使用 kind, 以及 podman 一些好�
 
 # slide: kind
 
+* what's kind?
+* inside kind
+* make fun with podman
 
 ---
 
