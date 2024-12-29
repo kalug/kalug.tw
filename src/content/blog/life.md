@@ -15,8 +15,8 @@ featured: true
 
 
 ## Why Taiwan & why Kaohsiung?
-- super friendly people and safe
-- convenient public traffic
+- super friendly people, good security and excellent medical quality.
+- convenient public transportation.
     - train + MRT + LRT + youbike (public bike)
 
 
@@ -68,8 +68,7 @@ https://moptt.tw/p/Soft_Job.M.1529562011.A.0AA)
 ## 
 
 ## 咖啡廳
-- [TadyCoffee](https://www.facebook.com/search/top/?q=tady%20coffee%20%E6%B3%B0%E8%BF%AA%E7%B2%BE%E5%93%81%E5%92%96%E5%95%A1) 高雄市三民區旅順街8號 老闆親自烘豆『客製化』
-- [多一點](https://www.google.com.tw/search?q=%E5%A4%9A%E3%84%A7%E9%BB%9E%E5%92%96%E5%95%A1&oq=%E5%A4%9A%E3%84%A7&aqs=chrome.2.69i57j0l5.10945j0j8&sourceid=chrome&ie=UTF-8)
+- 
 
 ## 餐廳
 - [Mars睦工場](https://rainieis.tw/mars-cube/)
@@ -87,10 +86,14 @@ https://moptt.tw/p/Soft_Job.M.1529562011.A.0AA)
 - 壽山/柴山
 
 ## 溜小孩的點
-- 壽山動物園
+- 壽山動物園 Shoushan Zoo https://zoo.kcg.gov.tw/
+- Lotus WakePark 蓮潭滑水主題樂園 https://www.facebook.com/LotusWakePark/
 - 糖廠
 - 靜園
 - 岡山 水庫沒關
+- 凹仔底公園
+- 中央公園
+- 衛武營都會公園
 
 ## 藝文展演場
 - [衛武營國家藝術文化中心](https://www.npac-weiwuying.org/)
