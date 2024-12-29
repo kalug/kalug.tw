@@ -11,6 +11,9 @@ featured: true
 
 # 高雄生活
 
+[![hackmd-github-sync-badge](https://hackmd.io/lio04o0jQNa267vYCoga2g/badge)](https://hackmd.io/lio04o0jQNa267vYCoga2g)
+
+
 ## 工作
 - 高雄軟體園區
 - 加工出口區(?) 不確定有沒有軟體公司
