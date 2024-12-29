@@ -4,10 +4,9 @@ pubDatetime: 2024-12-30T15:00:00
 tags:
   - kaohsiung
   - life
-description: Tuna 要分享 warp 這個工具，現在有 Mac/Linux 版本了, 帶AI的 terminal 幫我們簡化那些流程呢
+description: A Guide for tech people try to live in Kaohsiung
 featured: true
 ---
-
 
 
 # 高雄生活
