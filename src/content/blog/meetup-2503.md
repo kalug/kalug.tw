@@ -17,6 +17,9 @@ description:
 
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/9LzIkboFTManbksZzdDGfA/badge)](https://hackmd.io/9LzIkboFTManbksZzdDGfA)
+
+
 共筆歡迎編輯
 Please feel free to help us update the content.
 
