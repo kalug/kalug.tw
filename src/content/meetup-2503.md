@@ -8,14 +8,17 @@ tags:
   
 description: 
 - Dive: OpenAgentPlatform Biggo 高雄在地最強新創 最新open source AI Agent 平台
-  - MCP： model context protocpl
+   - MCP： model context protocpl
 - aichat: all-in-one cli ai tools
 - Iroh P2P network library
-  - umbpipe - p2p unix sockect
-  - zeco - zellij session sharing helper
+   - umbpipe - p2p unix sockect
+   - zeco - zellij session sharing helper
 - Steno keyboard - 22-key keyboard
 
 ---
+
+共筆歡迎編輯
+Please feel free to help us update the content.
 
 # Dive
 
