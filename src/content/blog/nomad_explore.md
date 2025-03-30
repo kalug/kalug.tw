@@ -1,6 +1,6 @@
 ---
 title: "參加活動玩世界 系列- Demoscene + 數位游牧台東直播"
-pubDatetime: 2025-4-10
+pubDatetime: 2025-04-10
 tags:
   - meetup
   - demoscene
@@ -9,6 +9,9 @@ tags:
   
 description: 石獅 (Ciosai) 分享 Demoscene 經驗, 搭配數位游牧活動這次我們台東直播
 ---
+
+[![hackmd-github-sync-badge](https://hackmd.io/p98RSs0SQ9q4tDR6Qw6t1g/badge)](https://hackmd.io/p98RSs0SQ9q4tDR6Qw6t1g)
+
 
 
 
