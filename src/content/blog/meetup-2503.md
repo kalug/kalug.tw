@@ -23,13 +23,14 @@ youtube: YvnpwDVrJ2k
 共筆歡迎編輯
 Please feel free to help us update the content.
 
-
+- tyson's note https://www.facebook.com/share/142AP36xo3/
 
 # MCP
 
 ## mcp
 - 技術難點:  llm 的token window limitation
     - 裝100個工具, 打個hi, 就要送100 次，所以裝越多， token 會成等比級數消耗
+    - Content Window 不只是 MCP 的技術難點. 也是 RAG 的. 也是 ChatHistory 的. 講起來LLM不論走那個方向都有這個難題.
 
 ## two types of MCP connections:
 ### MCP-stdio
@@ -39,9 +40,9 @@ Please feel free to help us update the content.
 # Dive
 - AI PC 支援比android 支援更有機會，因爲AI PC 沒有應用。
 
-- Reddit 上有人說：實際上基本上沒人在乎MCP，- Google 基本上不在乎MCP
+- 引述一兩個 Reddit 上有人說：實際上基本上沒人在乎MCP，- Google 基本上不在乎MCP (反串要註明)
 - 即便 Microsoft Windows 不做。電子五哥最後也可能透過ISV方式做pre-load 把MCP 做進去, 就像Ubuntu Linux 一樣
-- 可以兩個 MCP host 互相溝通
+- MCP host 只需要一個, 不會裝很多個. 是 MCP 的 Tools 裝的越多. tools desc 就越多, 就算沒有呼叫到的工具, token用量也會倍增.
 
 ## Why do Dive
 - Dive 有 6000 使用者。
