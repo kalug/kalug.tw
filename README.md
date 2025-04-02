@@ -1,5 +1,5 @@
+[![hackmd-github-sync-badge](https://hackmd.io/0PNB9hIfSoO0gHuyUPdvNg/badge)](https://hackmd.io/0PNB9hIfSoO0gHuyUPdvNg)
 
-[![hackmd-github-sync-badge](https://hackmd.io/R3zw3wszRayxteNYBqs4sg/badge)](https://hackmd.io/R3zw3wszRayxteNYBqs4sg)
 
 # About US
 
