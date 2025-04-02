@@ -30,3 +30,8 @@ pnpm-debug.log*
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+.aider*
+
+
+
+src/pages/about.md
