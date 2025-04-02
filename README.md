@@ -14,19 +14,23 @@ Kaohsiung Linux User Group (Kalug) is the group formed by friends who loves open
 Welcome to join our bee, No limitation for topics, Just for fun.
 Welcome to join our planet! Please leave your blog url in the below disqus!
 
-# About hotwo involve
+## how to reach us
 
-目前主要線上聯絡管道有 [github](https://github.com/kalug) / telegram / fb / discord / kktix / google calendar
+- meetup@SecondSpace: In-Person Meetup
+  - secondspace.dev
+  - Kaohsiung Central Park, MRT R9, Exit 3
+- main site: kalug.tw
+- telegram: https://t.me/+PQGfF2IkjlYxOTA1
+- discord: https://discord.gg/YQ4mvuVQHj
+- youtube: https://youtube.com/@kalug-tw 
+- lu.ma: https://lu.ma/kalug.tw
+- hackmd: https://hackmd.io/@kalug
+- github - https://github.com/kalug
 
-未來目標以 kalug.tw 聯絡管道; github / hackmd 為主要維護管道. 簡化聯繫難度.
 
-## meetup@MEGABAY
+## meetup@SecondSpace
 
 實體聚會, Just for Fun 為最高原則, 每次會準備1~2主題 (10~30mins 分享), 方便新朋友參與討論.
-
-![megabay 大港創艦](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTUqYbCCfqEmvjKHgj1AmKkTPS5M2Wjc7gA&s)
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1841.564443005479!2d120.29905579967564!3d22.61166175820609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e037f2a5a9001%3A0x28af37aaf30894aa!2s85%20Sky%20Tower!5e0!3m2!1sen!2stw!4v1730085449958!5m2!1sen!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### team writing / hackmd
 
@@ -44,10 +48,7 @@ Welcome to join our planet! Please leave your blog url in the below disqus!
 
 ## 特別感謝
 
+- [SecondSpace](https://secondspace.dev)
 - [HackMD](https://hackmd.io) - 支援共筆平臺![hackMD](https://hackmd.io/logo-full.svg)
-
 - [BigGo](https://biggo.com) - 字幕支援 ![BigGo](https://biggo.com.tw/icons/og-biggo.png)
-- 大港創艦 MEGABAY - 感謝支援場地 ![Megabay](https://megabay.kcg.gov.tw/Content/images/logo.png)
-- 酷日國際 ![crewwtw](https://crewwtw.com/wp-content/uploads/2024/09/Rectangle-299.png)
-
 - 輕風(Lightwind) - 高瞻遠矚 買下 kalug.tw domain
