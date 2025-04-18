@@ -5,6 +5,8 @@ luma: "zi0tp9rj"
 tags:
   - meetup
   - demoscene
+  - release-party
+  - fedora
 description: "Please add any topics that you like to share"
 ---
 
@@ -29,3 +31,11 @@ Revision 活動（50%） – 全球最大的 Demoscene 活動，每年復活節�
 Demoscene 社群（35%） – 全球性的即時視聽藝術社群，其他活動包括芬蘭的 Assembly 和德國的 Evoke。
 
 尋找社群與活動（15%） – 通過論壇、Discord 伺服器與 Pouët.net 等平台聯繫社群。
+
+
+## openwrt x86
+
+## release party
+
+### ubuntu2504
+### fedora42
