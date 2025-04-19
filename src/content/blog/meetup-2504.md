@@ -16,6 +16,12 @@ description: "Please add any topics that you like to share"
 Our in-person meetup will host by English and Mandarin.
 If you like Linux or other Open Source related topics, welcome to join us.
 
+How to enter second space
+
+https://api.cubeworks.org:8081/auth/doors/temp-key?k=G1GFxKZyy0Hq60mwh7T3
+
+
+---
 Please add any topics that you like to share or discuss.
 
 Topics：
@@ -32,10 +38,30 @@ Demoscene 社群（35%） – 全球性的即時視聽藝術社群，其他活�
 
 尋找社群與活動（15%） – 通過論壇、Discord 伺服器與 Pouët.net 等平台聯繫社群。
 
+## 數位遊牧 臺東
+
+
+
 
 ## openwrt x86
 
+- openwrt-on-proxmox
+
 ## release party
 
+* kernel 6.14
+* gnome 48
+* Orca - https://help.ubuntu.com/stable/ubuntu-help/a11y-screen-reader.html.en
+
 ### ubuntu2504
+
+* apt 3.0
+
+
 ### fedora42
+
+https://fedoramagazine.org/whats-new-fedora-workstation-42/
+
+* ibus-speech-to-text
+https://www.reddit.com/r/gnome/comments/1j8r4gb/ibusspeechtotext_is_fantastic/
+* 
