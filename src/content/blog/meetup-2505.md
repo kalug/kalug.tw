@@ -1,5 +1,5 @@
 ---
-title: "KaLUG meetup 2505"
+title: "KaLUG meetup 2505- Yocto Linux"
 pubDatetime: 2025-05-24
 tags:
   - meetup
