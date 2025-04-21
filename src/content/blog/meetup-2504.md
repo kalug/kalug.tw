@@ -1,5 +1,5 @@
 ---
-title: "Meetup2504"
+title: "Meetup2504 - Demoscene"
 pubDatetime: 2025-04-19
 luma: "zi0tp9rj"
 tags:
@@ -7,6 +7,8 @@ tags:
   - demoscene
   - release-party
   - fedora
+  - ubuntu
+  - openwrt
 description: "Please add any topics that you like to share"
 ---
 
@@ -27,6 +29,11 @@ Please add any topics that you like to share or discuss.
 Topics：
 - Sesame CSM-1b
 
+---
+
+## Revision Demoparty 活動介紹
+
+[簡報連接](https://typst.app/project/rOfy3jeKGiMWP3zd604Z0Y)
 
 講者：石獅 (Ciosai)，前端工程師、業餘遊戲開發 & 演算藝術家
 
@@ -38,8 +45,18 @@ Demoscene 社群（35%） – 全球性的即時視聽藝術社群，其他活�
 
 尋找社群與活動（15%） – 通過論壇、Discord 伺服器與 Pouët.net 等平台聯繫社群。
 
-## 數位遊牧 臺東
+[Demoparty](https://www.demoparty.net/)：在玩 Demoscene 的活動
 
+[Demozoo](https://demozoo.org/)
+
+[Revision 2025 活動官網](https://2025.revision-party.net/)
+
+
+---
+## nomad explore hub 數位遊牧 臺東
+
+- https://drive.google.com/drive/folders/1fdjk5e6NLSHjKsRDIIhP7w0DOXy73AaN?usp=sharing
+- 
 
 
 
@@ -47,9 +64,29 @@ Demoscene 社群（35%） – 全球性的即時視聽藝術社群，其他活�
 
 - openwrt-on-proxmox
 
+用一台一萬多（16 核 64G 1T）就可以作為 router 機
+
+WebUI 做的不錯，CLI 界面也做的很好 → 可以直接問 AI cli 怎麼下指令
+#### 優點
+- vm image backup
+- 多線路備援
+- 一機多用途善用 IP 資源
+- 強化安全性，可預設防火牆全開，需要時再臨時啟用
+
+#### 參考資料
+
+[How to "Install" an OpenWRT VM in Proxmox with UEFI](https://gist.github.com/ryuheechul/e829b7846a965638deeb122bdd0b403c)
+
+[ How to install OpenWRT on Proxmox ](https://www.youtube.com/watch?v=8RoYUsNe4gE)
+
+---
+
 ## release party
 
+
+
 * kernel 6.14
+* 
 * gnome 48
 * Orca - https://help.ubuntu.com/stable/ubuntu-help/a11y-screen-reader.html.en
 
@@ -64,4 +101,6 @@ https://fedoramagazine.org/whats-new-fedora-workstation-42/
 
 * ibus-speech-to-text
 https://www.reddit.com/r/gnome/comments/1j8r4gb/ibusspeechtotext_is_fantastic/
-* 
+
+
+
