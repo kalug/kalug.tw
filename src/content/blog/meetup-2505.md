@@ -1,9 +1,9 @@
 ---
-title: "KaLUG meetup 2505- Yocto Linux"
+title: "KaLUG meetup 2505 - Yocto Linux"
 pubDatetime: 2025-05-24
 tags:
   - meetup
-luma: 
+luma: s3z75wf4
 
 description: DistroWar - Yocto
 
