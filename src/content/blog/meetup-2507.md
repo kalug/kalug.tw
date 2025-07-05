@@ -1,5 +1,6 @@
 ---
-title: "KaLUG meetup 2507 - Yocto Linux"
+title: "KaLUG meetup 2507 - 管你要 trace 什麼、bpftrace 用下去就對了"
+
 pubDatetime: 2025-07-12
 tags:
   - meetup
@@ -10,6 +11,7 @@ description: "管你要 trace 什麼、bpftrace 用下去就對了"
 ---
 
 [![hackmd-github-sync-badge](https://hackmd.io/EjX5SzwMQci4hSLH3ECHMA/badge)](https://hackmd.io/EjX5SzwMQci4hSLH3ECHMA)
+
 
 
 - Speaker: Shung-Hsi Yu
