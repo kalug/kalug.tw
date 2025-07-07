@@ -1,6 +1,5 @@
 [![hackmd-github-sync-badge](https://hackmd.io/0PNB9hIfSoO0gHuyUPdvNg/badge)](https://hackmd.io/0PNB9hIfSoO0gHuyUPdvNg)
 
-
 # About US
 
 KaLUG 是由一群熱愛 Open Source 的朋友所組成的團體.
@@ -22,11 +21,10 @@ Welcome to join our planet! Please leave your blog url in the below disqus!
 - main site: kalug.tw
 - telegram: https://t.me/+PQGfF2IkjlYxOTA1
 - discord: https://discord.gg/YQ4mvuVQHj
-- youtube: https://youtube.com/@kalug-tw 
+- youtube: https://youtube.com/@kalug-tw
 - lu.ma: https://lu.ma/kalug.tw
 - hackmd: https://hackmd.io/@kalug
 - github - https://github.com/kalug
-
 
 ## meetup@SecondSpace
 
