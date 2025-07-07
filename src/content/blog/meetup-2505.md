@@ -6,17 +6,14 @@ tags:
 luma: s3z75wf4
 
 description: DistroWar - Yocto
-
 ---
 
 [![hackmd-github-sync-badge](https://hackmd.io/G22aauEsSiWy8RZLhSKAeg/badge)](https://hackmd.io/G22aauEsSiWy8RZLhSKAeg)
-
 
 - Speaker: Rick
 - Topic: Yocto
 
 https://www.yoctoproject.org
-
 
 # Other topics
 

@@ -14,7 +14,6 @@ description: "Please add any topics that you like to share"
 
 [![hackmd-github-sync-badge](https://hackmd.io/gQ5X7PN0RN6zVD1KqpZEoQ/badge)](https://hackmd.io/gQ5X7PN0RN6zVD1KqpZEoQ)
 
-
 Our in-person meetup will host by English and Mandarin.
 If you like Linux or other Open Source related topics, welcome to join us.
 
@@ -22,11 +21,12 @@ How to enter second space
 
 https://api.cubeworks.org:8081/auth/doors/temp-key?k=G1GFxKZyy0Hq60mwh7T3
 
-
 ---
+
 Please add any topics that you like to share or discuss.
 
 Topics：
+
 - Sesame CSM-1b
 
 ---
@@ -51,14 +51,12 @@ Demoscene 社群（35%） – 全球性的即時視聽藝術社群，其他活�
 
 [Revision 2025 活動官網](https://2025.revision-party.net/)
 
-
 ---
+
 ## nomad explore hub 數位遊牧 臺東
 
 - https://drive.google.com/drive/folders/1fdjk5e6NLSHjKsRDIIhP7w0DOXy73AaN?usp=sharing
-- 
-
-
+-
 
 ## openwrt x86
 
@@ -67,7 +65,9 @@ Demoscene 社群（35%） – 全球性的即時視聽藝術社群，其他活�
 用一台一萬多（16 核 64G 1T）就可以作為 router 機
 
 WebUI 做的不錯，CLI 界面也做的很好 → 可以直接問 AI cli 怎麼下指令
+
 #### 優點
+
 - vm image backup
 - 多線路備援
 - 一機多用途善用 IP 資源
@@ -83,24 +83,18 @@ WebUI 做的不錯，CLI 界面也做的很好 → 可以直接問 AI cli 怎麼
 
 ## release party
 
-
-
-* kernel 6.14
-* 
-* gnome 48
-* Orca - https://help.ubuntu.com/stable/ubuntu-help/a11y-screen-reader.html.en
+- kernel 6.14
+-
+- gnome 48
+- Orca - https://help.ubuntu.com/stable/ubuntu-help/a11y-screen-reader.html.en
 
 ### ubuntu2504
 
-* apt 3.0
-
+- apt 3.0
 
 ### fedora42
 
 https://fedoramagazine.org/whats-new-fedora-workstation-42/
 
-* ibus-speech-to-text
-https://www.reddit.com/r/gnome/comments/1j8r4gb/ibusspeechtotext_is_fantastic/
-
-
-
+- ibus-speech-to-text
+  https://www.reddit.com/r/gnome/comments/1j8r4gb/ibusspeechtotext_is_fantastic/

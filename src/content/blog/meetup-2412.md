@@ -18,16 +18,15 @@ luma: nh5298rs
 
 [![hackmd-github-sync-badge](https://hackmd.io/lpcCZkdhRR-wu-1u3NUMZw/badge)](https://hackmd.io/lpcCZkdhRR-wu-1u3NUMZw)
 
-
 具體更新詳見 https://lu.ma/kalug.tw
 
 ## Myron - 聊 2025 AI發展
 
-
-
 ## Netman 一起聊 聊 tech & 國際友善 / Let's Hack with global friends
+
 - https://x.com/HackerHouseTW
 
 ## RustDesk & moonlight - remote
+
 - 日落 - https://rustdesk.com/
 - mydiveking https://moonlight-stream.org/ 打電動的好幫手
