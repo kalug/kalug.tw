@@ -8,19 +8,18 @@ description: A Guide for tech people try to live in Kaohsiung
 featured: true
 ---
 
-
 # 高雄生活 Kaohsiung Life Guide
 
 [![hackmd-github-sync-badge](https://hackmd.io/lio04o0jQNa267vYCoga2g/badge)](https://hackmd.io/lio04o0jQNa267vYCoga2g)
 
-
 ## Why Taiwan & why Kaohsiung?
+
 - super friendly people, delicious foods, good security and excellent medical quality.
 - convenient public transportation.
-    - train + MRT + LRT + youbike (public bike)
- 
+  - train + MRT + LRT + youbike (public bike)
 
 ## 工作
+
 - 高雄軟體園區
 - 加工出口區(?) 不確定有沒有軟體公司
 - [幸福高雄移居津貼](http://labor.kcg.gov.tw/LaborBenefit/Welfare/welfare02.htm)
@@ -29,42 +28,42 @@ featured: true
 ### Best Practice
 
 #### 開公司
- - [funmula](http://funmula.com/)/[biggo](http://biggo.com.tw)
- - [webduino](https://webduino.io/)
+
+- [funmula](http://funmula.com/)/[biggo](http://biggo.com.tw)
+- [webduino](https://webduino.io/)
 
 #### 說服老闆開南部分公司
- - KKBOX 高雄分公司 高軟
- - QNAP 四維路
- - 緯創
- - 鴻海
+
+- KKBOX 高雄分公司 高軟
+- QNAP 四維路
+- 緯創
+- 鴻海
 
 #### 找工作經驗
- - [[心得] 高雄非新人找工作心得](
-https://moptt.tw/p/Soft_Job.M.1529562011.A.0AA)
 
+- [[心得] 高雄非新人找工作心得](https://moptt.tw/p/Soft_Job.M.1529562011.A.0AA)
 
 ### 本地社群
 
 - [KaLUG.tw](https://kalug.tw/)
-    - Kaohsiung Linux User Group: 由一群熱愛 Linux / open source 的高雄人所組成的社群
-    - 實體聚會：每月第三個周末聚會技術分享
-    - 線上聚會：Night Talk - 週四晚, 但可能依講者時間調整
+
+  - Kaohsiung Linux User Group: 由一群熱愛 Linux / open source 的高雄人所組成的社群
+  - 實體聚會：每月第三個周末聚會技術分享
+  - 線上聚會：Night Talk - 週四晚, 但可能依講者時間調整
 
 - [TOOCON](https://www.facebook.com/groups/toocon/)
-    - TOOCON 是由 GDG 高雄主辦，堅持大順路以南的中小型軟體相關交流聚會，因為活動跟二有關連，而且都在晚上舉辦，所以用 TWO 的諧音 TOO，於是中文名稱就叫「天黑黑月會」。
-    - 實體聚會：每個月第二週的星期二晚上七點到九點，二個小時，二位講者
+
+  - TOOCON 是由 GDG 高雄主辦，堅持大順路以南的中小型軟體相關交流聚會，因為活動跟二有關連，而且都在晚上舉辦，所以用 TWO 的諧音 TOO，於是中文名稱就叫「天黑黑月會」。
+  - 實體聚會：每個月第二週的星期二晚上七點到九點，二個小時，二位講者
 
 - [開發者Buffet](https://www.facebook.com/groups/buffet.dev)
-    - 我們是一群在台灣科技研討會結識的夥伴，自疫情期間，我們所在的城市技術社群與聚會逐漸減少。希望能保持討論和交流的熱度，因此我們決定發起聚會。 在這裏會舉辦各種形式的活動，議題大致上包括但不限於前、後端、UI/UX、ML、軟體開發等，希望大家能在這裡找到並盡情享受自己感興趣的事物，因此取名為【開發者 Buffet】。
-    - 實體聚會：每月的最後一個周二晚上 19:00 - 21:00，在高雄的咖啡廳與最多 10 位左右的開發者們一起輕鬆聊聊天，歡迎任何主題 ☕
+  - 我們是一群在台灣科技研討會結識的夥伴，自疫情期間，我們所在的城市技術社群與聚會逐漸減少。希望能保持討論和交流的熱度，因此我們決定發起聚會。 在這裏會舉辦各種形式的活動，議題大致上包括但不限於前、後端、UI/UX、ML、軟體開發等，希望大家能在這裡找到並盡情享受自己感興趣的事物，因此取名為【開發者 Buffet】。
+  - 實體聚會：每月的最後一個周二晚上 19:00 - 21:00，在高雄的咖啡廳與最多 10 位左右的開發者們一起輕鬆聊聊天，歡迎任何主題 ☕
 - [MOPCON](https://fb.me/mopcon)
 - [KSDG](https://facebook.com/groups/KSDGroup)
 - [GDG Kaohsiung](https://www.facebook.com/groups/1416205511963346)
 - GDG DevFest Annual Events
 - Global Game Jam Kaohsiung / KIMU (For Unity / Game Developers)
-
-
-
 
 ### 找房子、租房子、價格地帶
 
@@ -72,14 +71,13 @@ https://moptt.tw/p/Soft_Job.M.1529562011.A.0AA)
 - 中位數地區
 - 低價位地區
 
-
 ### 高雄主要生活圈
 
- - 南高雄
- - 北高雄
- - 鳳山、近屏東
- - 燕巢、義大大學城
- - 外圍區域: 茄萣、路竹、那瑪夏
+- 南高雄
+- 北高雄
+- 鳳山、近屏東
+- 燕巢、義大大學城
+- 外圍區域: 茄萣、路竹、那瑪夏
 
 ### 交通 Traffic
 
@@ -88,16 +86,18 @@ https://moptt.tw/p/Soft_Job.M.1529562011.A.0AA)
 TPASS 月票 如果待時間比較常可以考慮
 
 高雄的交通工具有:
- - MRT (高雄捷運)
- - LRT (高雄輕軌，環狀線)
- - UBike (共享單車)
+
+- MRT (高雄捷運)
+- LRT (高雄輕軌，環狀線)
+- UBike (共享單車)
 
 高雄的共享車服務有 (需要駕照):
- - GoShare (機車)
- - iRent (機車、汽車)
- - Wemo (機車)
 
-在高雄，選擇搭乘捷運公共設施非常方便，由於高雄的許多美食會座落在大街小巷或是捷運難以到達的地方，為了講求時間效率，機車、汽車仍然是受歡迎的交通工具，建議獲得一張機車駕照。 (*請勿使用汽車駕照騎機車、國際駕照不可以騎機車！！) 請注意騎乘機車、汽車時禁止使用手機，若需要講電話請開免持聽筒模式。
+- GoShare (機車)
+- iRent (機車、汽車)
+- Wemo (機車)
+
+在高雄，選擇搭乘捷運公共設施非常方便，由於高雄的許多美食會座落在大街小巷或是捷運難以到達的地方，為了講求時間效率，機車、汽車仍然是受歡迎的交通工具，建議獲得一張機車駕照。 (\*請勿使用汽車駕照騎機車、國際駕照不可以騎機車！！) 請注意騎乘機車、汽車時禁止使用手機，若需要講電話請開免持聽筒模式。
 
 ### 考機車駕照
 
@@ -113,8 +113,8 @@ TPASS 月票 如果待時間比較常可以考慮
 
 台灣的行動網路非常方便，尤其通常都有無限量的服務，價格便宜網路也很好，如果住處不方便牽線，也可以到電信局申請無限量的網路傳輸方案，但是若有低延遲需求，恐怕還是需要使用實體網路線服務。
 
- - 中華電信
- - 台灣大哥大
+- 中華電信
+- 台灣大哥大
 
 ### 水電
 
@@ -129,22 +129,24 @@ TPASS 月票 如果待時間比較常可以考慮
 理論上在咖啡廳短時間把電腦放置在桌上去上廁所不會被偷走，但仍建議有重要物品要隨身攜帶，電腦上鎖或是購買防盜鎖。
 
 ### Coworking Space
+
 - second space 紅線R9站 Exit3 https://www.secondspace.dev/
-    - 價位 NT$180/1日 NT$1000/1月, Member Plus NT$1799/1月
-    - good for individual, startup. people who love community
-    - super good location and 24/7 Unlimited Access
-    - small event: 5~30 people
+  - 價位 NT$180/1日 NT$1000/1月, Member Plus NT$1799/1月
+  - good for individual, startup. people who love community
+  - super good location and 24/7 Unlimited Access
+  - small event: 5~30 people
 - startupterrace 亞灣新創園 https://www.startupterrace.tw/
-    - good for startup (Reserved seat or lab)
-    - good price NT$3500 for a seat
-    - capacity: 50~250 people for event
+  - good for startup (Reserved seat or lab)
+  - good price NT$3500 for a seat
+  - capacity: 50~250 people for event
 - megabay 大港創建 https://megabay.kcg.gov.tw/
-    - capacity: 50~150 people for event
+  - capacity: 50~150 people for event
 - DAKUO高雄市數位內容創意中心, 214號 新樂街, 高雄市, 80341 https://dakuo.koda.net.tw/
-    - must for events
-    -  capacity: 50~350 people for event
+  - must for events
+  - capacity: 50~350 people for event
 
 ## 大學
+
 - 高雄大學
 - 中山大學
 - 高雄師範大學
@@ -153,23 +155,23 @@ TPASS 月票 如果待時間比較常可以考慮
 - 交通大學
 
 ## Education
+
 - Kaohsiung American School - pre-K - K-12
 - Kaohsiung Korean School - https://okep.moe.go.kr/koschl/orgInfo/eng_info/eng_view.do?edu_inst_id=000100110001
 - 高雄市日僑學校 [高雄日本人学校ホームページ](https://www.kaohsiung-js.com/)
 
-
 ## 遠端工作者歡迎的咖啡廳
+
 - 『羅斯朵』X『幾分』｜咖啡X酒吧 (凹子底店) https://maps.app.goo.gl/F3qdg8LJEb6UBZG39
 - [Mars睦工場](https://rainieis.tw/mars-cube/)
 - 咖啡覺醒中山店 (每天仍有需多外國人：美國、以色列、法國人常常在這裡工作)
 
-
 ## 餐廳
 
-
 ## 自然生態環境
+
 - 都會公園 97公頃 不確定是第一或第二大台灣人造公園
-- 蚵仔寮+援中港溼地公園 蚵仔寮南沙灘 雖然不比西子灣大, 近魚市場,游泳 請遠離肉粽 
+- 蚵仔寮+援中港溼地公園 蚵仔寮南沙灘 雖然不比西子灣大, 近魚市場,游泳 請遠離肉粽
 - 後勁溪
 - 蓮池潭 - 蓮潭滑水
 - 愛河
@@ -180,6 +182,7 @@ TPASS 月票 如果待時間比較常可以考慮
 - 壽山/柴山
 
 ## 溜小孩的點
+
 - 壽山動物園 Shoushan Zoo https://zoo.kcg.gov.tw/
 - Lotus WakePark 蓮潭滑水主題樂園 https://www.facebook.com/LotusWakePark/
 - 橋頭糖廠
@@ -190,6 +193,7 @@ TPASS 月票 如果待時間比較常可以考慮
 - 衛武營都會公園
 
 ## 藝文展演場
+
 - [衛武營國家藝術文化中心](https://www.npac-weiwuying.org/)
 - [高雄市立文化中心](https://khcc.kcg.gov.tw/rwd_home03.aspx?ID=$M102&IDK=2&EXEC=L)
 - [大東文化藝術中心](https://dadongcenter.kcg.gov.tw/home01.aspx?ID=1)
@@ -198,12 +202,12 @@ TPASS 月票 如果待時間比較常可以考慮
 - [內惟藝術中心](https://www.nwac.org.tw/)
 
 ## 醫療院所
-- 醫學中心
-    - 高醫
-    - 榮總
-    - 義大
-    - 長庚
 
+- 醫學中心
+  - 高醫
+  - 榮總
+  - 義大
+  - 長庚
 
 ## 參考
 

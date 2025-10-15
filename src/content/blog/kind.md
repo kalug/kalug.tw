@@ -6,17 +6,15 @@ tags:
   - kubernetes
   - kind
   - podman
-  
+
 description: "let's run kind in podman"
 youtube: b-b9Nahro9w
 luma: dt8l2tnm
 googlemap: omXnciLVyBBzHcLXA
-meetupLocation: Second space 捷運中央公園站 三號出口 R9 Exit 3 
-
+meetupLocation: Second space 捷運中央公園站 三號出口 R9 Exit 3
 ---
 
 [![hackmd-github-sync-badge](https://hackmd.io/o6XKOGGyREyfbxsSDNveJg/badge)](https://hackmd.io/o6XKOGGyREyfbxsSDNveJg)
-
 
 本次活動我們會在 second space 與 線上同時舉行
 上次 Johnny 幫我們介紹 本地端 如何建 kubernetes,
@@ -27,34 +25,31 @@ Shawn 打算介紹如何使用 用 podman 使用 kind, 以及 podman 一些好�
 - daemonless / quadlet
 - podmansh
 
-
 ---
 
 # kind
 
 ### kubernetes in docker (or podman)
 
-
 :::info
 2025/01 KaLUG.tw meetup / Shawn
-👉[youtube](https://www.youtube.com/watch?v=b-b9Nahro9w) / [github demo code](https://github.com/kalug/kind-demo)👈 
+👉[youtube](https://www.youtube.com/watch?v=b-b9Nahro9w) / [github demo code](https://github.com/kalug/kind-demo)👈
 :::
 
 :::danger
 ⚡ Don't use for PRODUTION env ⚡
 :::
 
-----
+---
 
 # Outline
 
-* what's kind?
-* other choices
-* inside kind
+- what's kind?
+- other choices
+- inside kind
   - docker in docker
-  - LoadBalancers - 
-cloud-provider-kind
-
+  - LoadBalancers -
+    cloud-provider-kind
 
 :::info
 👍 using kind for dev or testing
@@ -65,36 +60,36 @@ cloud-provider-kind
 ## What's kind
 
 - Kubernetes in Docker
-https://kind.sigs.k8s.io/
+  https://kind.sigs.k8s.io/
 
 - Go packages implementing cluster creation, image build, etc.
 - A command line interface (kind) built on these packages.
 - Docker image(s) written to run systemd, Kubernetes, etc.
 - kubetest (WIP)
 
-----
+---
 
 ### Deep Dive: Kind
+
 Nov 22, 2019
 {%youtube tT-GiZAr6eQ%}
 
-----
+---
 
 ### Deep Dive: Kind
 
-* test kubernetes
-* E2E testing
-* 7:30 Networking Deep Dive (kindnet)
+- test kubernetes
+- E2E testing
+- 7:30 Networking Deep Dive (kindnet)
 
-
-----
+---
 
 ### Testing your K8s apps with KIND
 
 May 24, 2019
 {%youtube 8KtmevMFfxA %}
 
-----
+---
 
 ### Quick start
 
@@ -105,7 +100,7 @@ https://kind.sigs.k8s.io/docs/user/quick-start/
 curl -Lo ~/bin/kind https://kind.sigs.k8s.io/dl/v0.26.0/kind-linux-amd64 && chmod +x ~/bin/kind
 ```
 
-``` 
+```
 $ kind create cluster
 ```
 
@@ -120,13 +115,13 @@ NAME                 STATUS   ROLES           AGE   VERSION   INTERNAL-IP   EXTE
 kind-control-plane   Ready    control-plane   52s   v1.32.0   10.89.0.2     <none>        Debian GNU/Linux 12 (bookworm)   6.13.0-0.rc1.20241206gitb8f52214c61a.19.fc42.x86_64   containerd://1.7.24
 ```
 
-----
+---
 
 ### What is a kubernetes
 
 ![k](https://kubernetes.io/images/docs/components-of-kubernetes.svg)
 
-----
+---
 
 ### What is a kind cluster? - kind nodes
 
@@ -151,7 +146,7 @@ root@kind-control-plane:/# systemctl status kubelet.slice
 ...
 ```
 
-----
+---
 
 ### containers in kind node
 
@@ -170,26 +165,25 @@ CONTAINER                                                           IMAGE       
 
 # Others?
 
-
 Kind < k3d < minikube
 
-----
+---
 
-|          | features      | vm       | vendor | LB |
-| -------- | --------      | -------- | ------ | --- |
-| kind     | lite          | no       | sig-testing | cloud-provider-kind |
-| minikube | full features | yes      | sig-cluster-lifecycle | mikikube tunnel |
-| kubeadm  | -             | -        | Kubernetes | - |
-| k3d      | k3s           | -        | k3s |  via Ingress (recommended) |
-| microk8s | snap          | yes      | canonical | MetalLB |
-| [capid](https://cluster-api.sigs.k8s.io/) | cluster-api | no |  sig-cluster-api | |
+|                                           | features      | vm  | vendor                | LB                        |
+| ----------------------------------------- | ------------- | --- | --------------------- | ------------------------- |
+| kind                                      | lite          | no  | sig-testing           | cloud-provider-kind       |
+| minikube                                  | full features | yes | sig-cluster-lifecycle | mikikube tunnel           |
+| kubeadm                                   | -             | -   | Kubernetes            | -                         |
+| k3d                                       | k3s           | -   | k3s                   | via Ingress (recommended) |
+| microk8s                                  | snap          | yes | canonical             | MetalLB                   |
+| [capid](https://cluster-api.sigs.k8s.io/) | cluster-api   | no  | sig-cluster-api       |                           |
 
-
-----
+---
 
 ## tips:
 
 ### kubie
+
 A more powerful alternative to kubectx and kubens
 https://github.com/sbstp/kubie
 
@@ -198,9 +192,9 @@ https://github.com/sbstp/kubie
 - kubie exec
 
 ### known-issues
+
 - https://kind.sigs.k8s.io/docs/user/known-issues/
 - like max_user_instances
-
 
 ---
 
@@ -214,20 +208,20 @@ https://github.com/sbstp/kubie
 ---
 
 ### Docker in Docker
+
 #### container inside container
 
 - \-\-privileged
 - Linux Security Modules
-    - AppArmor or SELinux
+  - AppArmor or SELinux
 
-----
+---
 
 #### privileged mode
+
 https://learn.snyk.io/lesson/container-runs-in-privileged-mode/
 
-
-
-----
+---
 
 ### systemd in Docker
 
@@ -248,26 +242,23 @@ RUN passwd -d root
 ENTRYPOINT [ "/lib/systemd/systemd" ]
 ```
 
-----
+---
 
 ## more deeper
 
 - kubelet - https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/
-- kubeadm - 
+- kubeadm -
 - kubelet plugin
 - nvkind - https://github.com/NVIDIA/nvkind/
 - cri-o in kind
 
-----
+---
 
 ### kubeadm
 
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
 
-
-
-
-----
+---
 
 cri-o in kind
 https://github.com/cri-o/cri-o/blob/main/tutorials/crio-in-kind.md
@@ -280,7 +271,6 @@ CNI - https://github.com/containernetworking/cni
 
 - cni/net.d/10-kindnet.conflist
 
-
 ---
 
 ### LoadBalancers - cloud-provider-kind
@@ -291,8 +281,7 @@ https://github.com/kubernetes-sigs/cloud-provider-kind
 
 {%youtube U6_-y24rJnI %}
 
-
-----
+---
 
 ### cloud-provider-kind - one service one kindccm
 
@@ -303,21 +292,20 @@ a0a8b3c02bab  docker.io/envoyproxy/envoy:v1.30.1                                
 
 ```
 
-----
+---
 
-* kubectl port-forward service/doc-controller 8080：8080
+- kubectl port-forward service/doc-controller 8080：8080
 
 https://kccnceu2024.sched.com/event/1YhhY/keep-calm-and-load-balance-on-kind-antonio-ojea-benjamin-elder-google
 
-
-----
+---
 
 ## Other tips
+
 - Local Registry
 - kubie
 
-
-----
+---
 
 ## nvkind
 
@@ -328,5 +316,3 @@ https://kccnceu2024.sched.com/event/1YhhY/keep-calm-and-load-balance-on-kind-ant
 - docker only
 
 {%youtube jnHlwZKJiL4 %}
-
-
