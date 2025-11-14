@@ -15,6 +15,9 @@ description: "一起來聊9月兩大open source 會議 kernel recipes & All-syst
 
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/8qZmKaE-RJuDd3Ba64VU8Q/badge)](https://hackmd.io/8qZmKaE-RJuDd3Ba64VU8Q)
+
+
 - Hoster: Eric & Shawn
 - Topic: kernel 遇上 user space
  
