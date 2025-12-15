@@ -1,3 +1,10 @@
+---
+title: "[Event notice] KaLUG2512 - 第一次 雄校聯 聚會"
+pubDatetime: 2025-12-13T15:00:00
+slug: meetup2512
+description: 第一次純lighting talk
+---
+
 # 2512- 第一次雄校聯聚會
 
 活動時間: 12/13 14:30~17:30
