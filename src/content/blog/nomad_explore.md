@@ -6,7 +6,7 @@ tags:
   - demoscene
   - digital_nomad
   - NOMAD_EXPLORE
-  
+
 description: 我們跟著數位游牧到台東去玩啦
 youtube: -I1hiCVMeoQ
 ---
@@ -14,6 +14,3 @@ youtube: -I1hiCVMeoQ
 [![hackmd-github-sync-badge](https://hackmd.io/p98RSs0SQ9q4tDR6Qw6t1g/badge)](https://hackmd.io/p98RSs0SQ9q4tDR6Qw6t1g)
 
 台東
-
-
-
